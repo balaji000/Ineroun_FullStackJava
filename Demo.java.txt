@@ -1,0 +1,8 @@
+import java.util.*;
+Class Demo
+{
+public static static void main(String args[])
+{
+System.out.println("Welcome");
+}
+}
